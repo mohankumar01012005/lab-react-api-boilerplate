@@ -1,0 +1,41 @@
+.Main {
+    display: flex;
+    width: 95vw;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .Description {
+    width: 90%;
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .AuthorName {
+    color: #777;
+    font-style: italic;
+  }
+  
+  .title {
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+  .BooksPart {
+    display: flex;
+    align-items: center;
+  }
+  
+  .BooksPart img {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+  }
+  
